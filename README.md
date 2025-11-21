@@ -20,4 +20,4 @@ Tutto quello che vuoi a prezzi incredibili, con promozioni lampo e sconti da non
 
 1. Clona il repo:  
    ```bash
-   git clone https://github.com/tuo-username/123-offerte-pazzesche.git
+   git clone https://github.com/felixdj1/123-offerte-pazzesche.git
