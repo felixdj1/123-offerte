@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 123 Offerte Pazzesche 🛒🔥
 
-# Run and deploy your AI Studio app
+Benvenuto in **123 Offerte Pazzesche**, il sito e-commerce dove trovi le **offerte più pazze del giorno**! 🚀  
+Tutto quello che vuoi a prezzi incredibili, con promozioni lampo e sconti da non perdere.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1svGiVewAXMlEXL4SKWKQvVqotUZwe3ve
+## 🔥 Caratteristiche principali
 
-## Run Locally
+- **Offerte giornaliere** aggiornate automaticamente
+- **Filtri per categoria** per trovare subito ciò che ti serve
+- **Design colorato e vivace**: rosso e giallo “offerte pazze”
+- **Header animato** con “Offerte del Giorno”
+- **Mobile-friendly**: navigazione semplice da smartphone e tablet
+- **Notifiche promozionali** (in sviluppo)
 
-**Prerequisites:**  Node.js
+---
 
+## 💻 Come avviare il progetto
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Clona il repo:  
+   ```bash
+   git clone https://github.com/tuo-username/123-offerte-pazzesche.git
